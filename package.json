@@ -1,0 +1,10 @@
+{
+    "name": "node-playground",
+    "version": "0.0.1",
+    "description": "This is my javascript scratch pad.",
+    "main": "src/index.js",
+    "repository": "https://lovelylabs@github.com/lovelylabs/node-playground.git",
+    "author": "Alexander Guerra <alex@lovelylabs.io>",
+    "license": "MIT",
+    "private": false
+}
